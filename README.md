@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Monica 👋
 
-<!--
-**MONlCA/MONlCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I spent 15+ years being the person people call when something breaks — 
+troubleshooting APIs, debugging integrations, and building the processes 
+that keep support teams from falling apart under pressure.
 
-Here are some ideas to get you started:
+Now I'm doing something new: learning to build the systems I used to fix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently pursuing an A.S.-T in Software Engineering & DevOps at Foothill College  
+🔧 Building small tools to sharpen what I'm learning (see pinned repos)  
+🤖 Heavy daily user of AI-assisted development — I use it to move fast and learn faster  
+📍 Bay Area
+
+### What I'm working on
+- **[compliance-checker](https://github.com/MONlCA/compliance-checker)** — exploring automated compliance validation logic
+- **[loglens](https://github.com/MONlCA/loglens)** — a log analysis and troubleshooting utility
+- **[api-pulse](https://github.com/MONlCA/api-pulse)** — API health-check and monitoring tool
+
+### Let's connect
+[LinkedIn](https://linkedin.com/in/monicaprasad) · [Portfolio](https://github.com/MONlCA/portfolio)
