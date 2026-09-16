@@ -6,7 +6,7 @@ that keep support teams from falling apart under pressure.
 
 Now I'm doing something new: learning to build the systems I used to fix.
 
-🎓 Currently pursuing an A.S.-T in Software Engineering & DevOps at Foothill College  
+🎓 Currently pursuing an A.S.-T in Software Engineering & DevOps   
 🔧 Building small tools to sharpen what I'm learning (see pinned repos)  
 🤖 Heavy daily user of AI-assisted development — I use it to move fast and learn faster  
 📍 Bay Area
